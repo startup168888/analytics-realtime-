@@ -1,7 +1,7 @@
 <?php
-define('VIEW','2833477382');
+define('STREAM','2833477382');
 define('SERVICE_ACCOUNT', 'e-commerce-331216-b3aa31150daa.json');
-define('DOMAIN','https://test-bot011.herokuapp.com');
+define('DOMAIN','https://test-bot011.herokuapp.com/');
 function getActivePages($analytics){
   $optParams = array(
           'dimensions' => 'rt:pageTitle,rt:pagePath',
