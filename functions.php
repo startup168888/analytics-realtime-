@@ -1,5 +1,5 @@
 <?php
-define('STREAM','2833477382');
+define('VIEW','2833477382');
 define('SERVICE_ACCOUNT', 'e-commerce-331216-b3aa31150daa.json');
 define('DOMAIN','https://test-bot011.herokuapp.com');
 function getActivePages($analytics){

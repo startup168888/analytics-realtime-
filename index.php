@@ -172,7 +172,7 @@
       //fetch live data every 10 seconds
       setInterval(function(){
         refreshData();
-      },10000);
+      },5000);
       function getData(action){
         $.ajax({
           url:'ajax.php?action='+action,
