@@ -1,6 +1,6 @@
 <?php
-define('VIEW','254852369');
-define('SERVICE_ACCOUNT', 'testbot011-443258052663.json');
+define('VIEW','254886661');
+define('SERVICE_ACCOUNT', 'zongweifyp-2f6da875b6f0.json');
 define('DOMAIN','https://test-bot011.herokuapp.com');
 function getActivePages($analytics){
   $optParams = array(
