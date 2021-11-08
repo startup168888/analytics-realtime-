@@ -1,7 +1,7 @@
 <?php
 define('VIEW','254886661');
 define('SERVICE_ACCOUNT', 'zongweifyp-2f6da875b6f0.json');
-define('DOMAIN','https://test-bot011.herokuapp.com');
+define('DOMAIN','https://testbot011.herokuapp.com');
 function getActivePages($analytics){
   $optParams = array(
           'dimensions' => 'rt:pageTitle,rt:pagePath',
