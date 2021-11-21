@@ -9,13 +9,13 @@ class GA{
 	  // Use the developers console and download your service account
 	  // credentials in JSON format. Place them in this directory or
 	  // change the key file location if necessary.
-	  $KEY_FILE_LOCATION = __DIR__ . '/PAI-dw55dw5w5was.json';
+	  $KEY_FILE_LOCATION = __DIR__ . 'zongweifyp-2f6da875b6f0.json';
 
 	  // Create and configure a new client object.
 	  $client = new Google_Client();
 	  $client->setApplicationName("Project");
 	  $client->setAuthConfig($KEY_FILE_LOCATION);
-	  $client->setScopes(['https://www.googleapis.com/auth/analytics.readonly']);
+	  $client->setScopes(['https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js']);
 	  $analytics = new Google_Service_Analytics($client);
 
 	  return $analytics;
