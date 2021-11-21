@@ -1,6 +1,7 @@
 <?php include('functions.php');?>
 <html>
   <head>
+  <h1>Google analytics Live Report</h1>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.1.1/css/bootstrap.min.css">
     <link rel="stylesheet" href="styles.css" type="text/css">
 
@@ -71,7 +72,6 @@
     </style>
   </head>
   <body>
-  <h1>Google analytics Live Report</h1>
 
     <div class="container mt-3">
       <div class="row">
