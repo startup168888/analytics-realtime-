@@ -71,6 +71,8 @@
     </style>
   </head>
   <body>
+  <h1>Google analytics Live Report</h1>
+
     <div class="container mt-3">
       <div class="row">
         <div class="col-md-8">
@@ -188,6 +190,8 @@
         link = '<?php echo DOMAIN;?>'+$(this).attr('data-link');
         window.open(link, '_blank');
       });
+      <hr></hr>
+      <h1>Google analytics Report Chart</h1>
     </script>
         <iframe width="1000" height="500" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSd9mmo50VeEc9GImcB_tUxh15pW39rEWOMLAxXbOly4YF8Zm-NPICdfLYBiDpb5n-a_djGqiqATQnA/pubchart?oid=936538331&amp;format=interactive"></iframe>
           <div id="home1">
@@ -199,5 +203,10 @@
               <iframe width="1000" height="500" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSd9mmo50VeEc9GImcB_tUxh15pW39rEWOMLAxXbOly4YF8Zm-NPICdfLYBiDpb5n-a_djGqiqATQnA/pubchart?oid=1123932554&amp;format=interactive"></iframe>
                 </div>
                 <iframe width="1000" height="500" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSd9mmo50VeEc9GImcB_tUxh15pW39rEWOMLAxXbOly4YF8Zm-NPICdfLYBiDpb5n-a_djGqiqATQnA/pubchart?oid=1173174311&amp;format=interactive"></iframe>
-  </body>
+                  <p><fonts size="+2">
+Report courtesy of
+<a href="https://testbot011.herokuapp.com/" target="_blank">Cool-T-Shirt</a>.
+            </p>
+                </body>
+
 </html>
