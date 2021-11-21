@@ -2,6 +2,8 @@
 <html>
   <head>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.1.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="styles.css" type="text/css">
+
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
     <style type="text/css">
       *{
@@ -188,9 +190,14 @@
       });
     </script>
         <iframe width="1000" height="500" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSd9mmo50VeEc9GImcB_tUxh15pW39rEWOMLAxXbOly4YF8Zm-NPICdfLYBiDpb5n-a_djGqiqATQnA/pubchart?oid=936538331&amp;format=interactive"></iframe>
+          <div id="home1">
           <iframe width="1000" height="500" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSd9mmo50VeEc9GImcB_tUxh15pW39rEWOMLAxXbOly4YF8Zm-NPICdfLYBiDpb5n-a_djGqiqATQnA/pubchart?oid=292922766&amp;format=interactive"></iframe>
+            </div>
+
             <iframe width="1000" height="500" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSd9mmo50VeEc9GImcB_tUxh15pW39rEWOMLAxXbOly4YF8Zm-NPICdfLYBiDpb5n-a_djGqiqATQnA/pubchart?oid=356919952&amp;format=interactive"></iframe>
-            <iframe width="1000" height="500" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSd9mmo50VeEc9GImcB_tUxh15pW39rEWOMLAxXbOly4YF8Zm-NPICdfLYBiDpb5n-a_djGqiqATQnA/pubchart?oid=1123932554&amp;format=interactive"></iframe>
-              <iframe width="1000" height="500" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSd9mmo50VeEc9GImcB_tUxh15pW39rEWOMLAxXbOly4YF8Zm-NPICdfLYBiDpb5n-a_djGqiqATQnA/pubchart?oid=1173174311&amp;format=interactive"></iframe>
+              <div id="home2">
+              <iframe width="1000" height="500" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSd9mmo50VeEc9GImcB_tUxh15pW39rEWOMLAxXbOly4YF8Zm-NPICdfLYBiDpb5n-a_djGqiqATQnA/pubchart?oid=1123932554&amp;format=interactive"></iframe>
+                </div>
+                <iframe width="1000" height="500" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSd9mmo50VeEc9GImcB_tUxh15pW39rEWOMLAxXbOly4YF8Zm-NPICdfLYBiDpb5n-a_djGqiqATQnA/pubchart?oid=1173174311&amp;format=interactive"></iframe>
   </body>
 </html>
