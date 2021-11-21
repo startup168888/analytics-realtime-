@@ -1,7 +1,7 @@
 <?php include('functions.php');?>
 <html>
   <head>
-  <h1>Google analytics Live Report</h1>
+  
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.1.1/css/bootstrap.min.css">
     <link rel="stylesheet" href="styles.css" type="text/css">
 
@@ -162,6 +162,7 @@
         </div>
       </div>
     </div>
+    <h1>Google analytics Report Chart</h1>
     <script type="text/javascript">
       function refreshData(){
         getData('pages');
@@ -190,7 +191,6 @@
         link = '<?php echo DOMAIN;?>'+$(this).attr('data-link');
         window.open(link, '_blank');
       });
-      <h1>Google analytics Report Chart</h1>
     </script>
           <iframe width="1000" height="500" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSd9mmo50VeEc9GImcB_tUxh15pW39rEWOMLAxXbOly4YF8Zm-NPICdfLYBiDpb5n-a_djGqiqATQnA/pubchart?oid=936538331&amp;format=interactive"></iframe>
           <div id="home1">
