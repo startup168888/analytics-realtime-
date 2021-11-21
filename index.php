@@ -162,7 +162,6 @@
         </div>
       </div>
     </div>
-    <h1>Google analytics Report Chart</h1>
     <script type="text/javascript">
       function refreshData(){
         getData('pages');
@@ -201,8 +200,8 @@
               <div id="home2">
           <iframe width="1000" height="500" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSd9mmo50VeEc9GImcB_tUxh15pW39rEWOMLAxXbOly4YF8Zm-NPICdfLYBiDpb5n-a_djGqiqATQnA/pubchart?oid=1123932554&amp;format=interactive"></iframe>
                 </div>
-           <iframe width="1000" height="500" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSd9mmo50VeEc9GImcB_tUxh15pW39rEWOMLAxXbOly4YF8Zm-NPICdfLYBiDpb5n-a_djGqiqATQnA/pubchart?oid=1173174311&amp;format=interactive"></iframe>
-                  <p><fonts size="+6">
+
+                <iframe width="1000" height="500" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSd9mmo50VeEc9GImcB_tUxh15pW39rEWOMLAxXbOly4YF8Zm-NPICdfLYBiDpb5n-a_djGqiqATQnA/pubchart?oid=1777250189&amp;format=interactive"></iframe>
 Report courtesy of  
 <a href="https://testbot011.herokuapp.com/" target="_blank">Cool-T-Shirt</a>.
             </p>
